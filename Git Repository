@@ -1,2 +1,8 @@
 cd my_profile
 git init
+
+__pycache__/
+*.pyc
+
+git add .
+git commit -m "Initial commit"
